@@ -3,7 +3,7 @@
 A sleek, modern take on the classic Snake game, built using **Java Swing** and **Graphics2D**. This project focuses on clean visuals, smooth performance, and object-oriented programming principles.
 
 <p align="center">
-  <img src="src/GAMEOVER.png" width="500" alt="Game Preview">
+  <img src="src/GAMEOVER.png" width="300" alt="Game Preview">
 </p>
 
 ## Key Features
@@ -36,6 +36,7 @@ A sleek, modern take on the classic Snake game, built using **Java Swing** and *
 Author : Lina Honoré
 
 LinkedIn : www.linkedin.com/in/lina-honoré-961589383
+
 
 
 
