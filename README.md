@@ -2,7 +2,7 @@
 
 A sleek, modern take on the classic Snake game, built using **Java Swing** and **Graphics2D**. This project focuses on clean visuals, smooth performance, and object-oriented programming principles.
 
-![Game Preview]("src/GAMEOVER.png")
+![Game Preview](src/GAMEOVER.png)
 
 ## Key Features
 * **Modern Visuals:** Uses `Graphics2D` with **Anti-aliasing** for smooth edges and professional rendering.
@@ -34,4 +34,5 @@ A sleek, modern take on the classic Snake game, built using **Java Swing** and *
 Author : Lina Honoré
 
 LinkedIn : www.linkedin.com/in/lina-honoré-961589383
+
 
