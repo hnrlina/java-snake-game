@@ -32,4 +32,4 @@ A sleek, modern take on the classic Snake game, built using **Java Swing** and *
 * `GamePanel.java`: Contains the game loop, logic, and custom rendering.
 
 Author : Lina Honoré
-LinkedIn : www.linkedin.com/in/lina-honoré-961589383/
+LinkedIn : [www.linkedin.com/in/lina-honoré-961589383/](https://www.linkedin.com/in/lina-honor%C3%A9-961589383/)
